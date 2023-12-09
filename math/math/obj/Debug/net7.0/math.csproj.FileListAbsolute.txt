@@ -1,0 +1,14 @@
+C:\Users\Asus\Desktop\math\math\obj\Debug\net7.0\math.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\math\math\obj\Debug\net7.0\math.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\math\math\obj\Debug\net7.0\math.AssemblyInfo.cs
+C:\Users\Asus\Desktop\math\math\obj\Debug\net7.0\math.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\math\math\bin\Debug\net7.0\math.exe
+C:\Users\Asus\Desktop\math\math\bin\Debug\net7.0\math.deps.json
+C:\Users\Asus\Desktop\math\math\bin\Debug\net7.0\math.runtimeconfig.json
+C:\Users\Asus\Desktop\math\math\bin\Debug\net7.0\math.dll
+C:\Users\Asus\Desktop\math\math\bin\Debug\net7.0\math.pdb
+C:\Users\Asus\Desktop\math\math\obj\Debug\net7.0\math.dll
+C:\Users\Asus\Desktop\math\math\obj\Debug\net7.0\refint\math.dll
+C:\Users\Asus\Desktop\math\math\obj\Debug\net7.0\math.pdb
+C:\Users\Asus\Desktop\math\math\obj\Debug\net7.0\math.genruntimeconfig.cache
+C:\Users\Asus\Desktop\math\math\obj\Debug\net7.0\ref\math.dll
